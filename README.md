@@ -20,8 +20,8 @@ const options = { enabled: true };
 module.exports = {
   plugins: [
     WepyPluginCompressor(options),
-  ]
-}
+  ],
+};
 ```
 
 ## Default settings
@@ -34,6 +34,7 @@ const options = {
   // by default the wxss compression is disabled
   wxss: false,
   // the engine under the hook is terser
-  // which would automatically transpile the code into ES5
+  // which would automatically transpile the ES6 into ES5
   js: true,
+};
 ```
