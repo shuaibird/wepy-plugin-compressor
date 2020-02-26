@@ -17,7 +17,9 @@
   },
   "keywords": [
     "wepy",
-    "plugin"
+    "plugin",
+    "compressor",
+    "minify"
   ],
   "author": {
     "name": "shuaibird",
