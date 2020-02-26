@@ -1,5 +1,5 @@
 # Wepy-plugin-compressor
-An easily An easily-to-be-used file compression plugin for wepy 2.
+An easily-to-be-used compressor plugin for wepy 2.
 
 ## Install
 ```
