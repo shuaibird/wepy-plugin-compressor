@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-compressor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easily-to-be-used file compression plugin for wepy 2",
   "homepage": "https://github.com/shuaibird/wepy-plugin-compressor",
   "bugs": {
